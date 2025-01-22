@@ -25,7 +25,7 @@ El objetivo del juego es asignar un amigo secreto de forma aleatoria a cada part
 
 ## Notas Importantes
 - Asegúrate de ingresar solo nombres válidos. La aplicación no aceptará números ni signos.
-- Si la lista esta vacia la aplicación no entregara el nombre de tu amigo secreto 
+- Si la lista esta vacia la aplicación no entregara el nombre de tu amigo secreto. 
 - Diviértete y disfruta del misterio del juego de amigo secreto.
 
 <h2 align="center" >¡Que todos disfruten del juego!</h2>
